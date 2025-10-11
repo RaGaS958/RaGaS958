@@ -32,6 +32,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Developer;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Cloud+Automation+%E2%80%A2+Open+Source+Contributor" alt="Typing SVG" />
 
 </p>
+
 ---
 
 ## 🧠 About Me
@@ -52,6 +53,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)" width='100%'>
 </picture>
+
 ---
 
 ## 🚀 Tech Stack
@@ -120,6 +122,7 @@
 - 💻 Streamlit app with chat UI, lottie animations, and Gemini integration
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
 ---
 
 ## 📈 GitHub Stats
