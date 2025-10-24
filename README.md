@@ -74,6 +74,18 @@
 - Geolocation, rescue alerts, and real-time tracking
 - Built using **React**, JS, REST APIs, and scalable backend
 
+### ✈️ Voyage – AI Travel Itinerary Planner  
+> AI-powered travel planning assistant powered by automation  
+- Built with **Lovable App**, **n8n**, **Google Gemini/OpenAI**, **Google Sheets API**  
+- 🚀 Personalized itineraries delivered instantly to your **email inbox**
+
+### 🏥 HealthWise Agent – AI Symptom Triage Assistant  
+> Safe, structured, and verified health information using Agentic AI  
+- Developed for the **IBM watsonx.ai Hackathon**  
+- 🧠 Uses **NLP + RAG + ReAct Agents** to analyze symptoms  
+- 🚨 Prioritizes **safety-first triage** with credible medical sources (WHO, CDC, Mayo Clinic)
+
+
 ### 📚 Studmate – Student Productivity Dashboard
 > All-in-one productivity companion for students
 - HTML, CSS, JavaScript (Vanilla)
@@ -97,6 +109,38 @@
 - 🏋️ Generates short workouts, culturally-aware diet plans & chat guidance
 - 🥗 Focused on affordability, accessibility & student health
 - 💻 Streamlit app with chat UI, lottie animations, and Gemini integration
+
+### 🏙️ Airbnb (Vois) Data Analysis  
+> Exploring NYC’s rental trends through data storytelling  
+- Focus on **pricing**, **reviews**, **hosts**, and **geographical distribution**  
+- 🧠 Data cleaned and analyzed using **Python**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**
+
+### 🎬 Netflix Data Analysis  
+> Data storytelling powered by Python and modern visualization  
+- Built with **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
+- 📊 Extracts patterns in Netflix content distribution, ratings, genres, and release trends
+
+### 🚗 Ford Price Prediction  
+> AI-powered used car price estimation for smarter buying decisions  
+- Predicts **Ford car prices** based on key vehicle attributes  
+- 🤖 Built with **Linear Regression**  
+- ⚡ Achieved **88.34% Adjusted R² Score**  
+- 🛠️ 6 key features analyzed: model, year, mileage, transmission, fuel type, engine size  
+
+### 🌊 Tsunami Prediction using Machine Learning  
+> AI-driven early warning insights for coastal safety  
+- Predicts **tsunami occurrence** using seismic event parameters  
+- 🤖 Powered by **KNN, Logistic Regression, SVM, Decision Tree & Naive Bayes**  
+
+
+### ❤️ HeartCare AI Predictor  
+> Smart cardiac risk detection for early health protection  
+- Predicts **heart disease likelihood** using patient clinical data  
+- 🤖 Built with **Logistic Regression, KNN, SVM, Decision Tree & Naive Bayes**  
+- ⚡ Instant results with **89.67% accuracy**  
+- 🩺 18 medical parameters analyzed for precise risk classification  
+
+
 
 ### 🙌🏻 More to come,In progress 🚧 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
