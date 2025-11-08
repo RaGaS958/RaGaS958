@@ -141,6 +141,17 @@
 - 🩺 18 medical parameters analyzed for precise risk classification  
 
 
+### ⚡ EV_aluate – EV Intelligence Platform
+
+> AI-powered analytics system predicting EV Innovation Score & CO₂ Savings
+
+- Python, Streamlit, XGBoost, Linear Regression, Plotly
+- 🚗 Analyzes 360+ EVs for sustainability & performance benchmarking
+- 📊 Interactive ML dashboard with CO₂ impact and innovation insights
+- 🌱 Promotes data-driven decisions for greener mobility
+
+
+
 
 ### 🙌🏻 More to come,In progress 🚧 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
