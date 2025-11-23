@@ -54,86 +54,91 @@
 
 ## 🧩 Featured Projects
 
-### 🧠 EMMA – AI Mental Health Chatbot
+### 🧠 [EMMA – AI Mental Health Chatbot](https://github.com/RaGaS958/EMMA.git)
 > AI-powered chatbot for emotional support using CBT principles
 - Built with **React.js**, **Tailwind**, **NLP**, **HIPAA-compliant architecture**
 - 🧠 Enhanced mental health interaction for young adults
 
-### 💊 MedoKnow – Public Health Awareness
+### 💊 [MedoKnow – Public Health Awareness](https://github.com/RaGaS958/Medoknow.git)
 > Real-time medicine lookup and awareness tool
 - JavaScript, HTML, CSS with animated **Vanta.js** UI
 - 🔍 Custom search for drug data and brand recognition
 
-### 📋 Pastu – Paste & Share Code
+### 📋 [Pastu – Paste & Share Code](https://github.com/RaGaS958/Pastu.git)
 > Clean code sharing platform
 - **React.js + Redux**, Tailwind, Routing & Real-time session handling
 - ⚡ Supports 1000+ concurrent users with performance optimization
 
-### 🚨 RESQ – Disaster Management App
-> Hackathon winner @ GDG Challenge
-- Geolocation, rescue alerts, and real-time tracking
-- Built using **React**, JS, REST APIs, and scalable backend
-
-### ✈️ Voyage – AI Travel Itinerary Planner  
+### ✈️ [Voyage – AI Travel Itinerary Planner](https://github.com/RaGaS958/Voyage.git)  
 > AI-powered travel planning assistant powered by automation  
 - Built with **Lovable App**, **n8n**, **Google Gemini/OpenAI**, **Google Sheets API**  
 - 🚀 Personalized itineraries delivered instantly to your **email inbox**
 
-### 🏥 HealthWise Agent – AI Symptom Triage Assistant  
+### 🏥 [HealthWise Agent – AI Symptom Triage Assistant](https://github.com/RaGaS958/HealthWise_Agent.git)  
 > Safe, structured, and verified health information using Agentic AI  
 - Developed for the **IBM watsonx.ai Hackathon**  
 - 🧠 Uses **NLP + RAG + ReAct Agents** to analyze symptoms  
 - 🚨 Prioritizes **safety-first triage** with credible medical sources (WHO, CDC, Mayo Clinic)
 
 
-### 📚 Studmate – Student Productivity Dashboard
+### 📚 [Studmate – Student Productivity Dashboard](https://github.com/RaGaS958/Studmate.git)
 > All-in-one productivity companion for students
 - HTML, CSS, JavaScript (Vanilla)
 - 🎯 Tracks progress, manages notes, boosts focus & gamifies learning
 - 🤖 Includes AI Assistant, Analytics & Gamification System
 
-### 💬 Tex – WhatsApp Auto-Reply Automation
+### 💬 [Tex – WhatsApp Auto-Reply Automation](https://github.com/RaGaS958/TEX.git)
 > Smart AI automation tool for WhatsApp using Google Gemini AI
 - Python, PyAutoGUI, Clipboard, and Gemini API
 - 📋 Reads messages and generates context-aware replies automatically
 - ⚡ Fully automated typing and sending via GUI scripting
 
-### 🎙️ MIRA – AI Voice Assistant
+### 🎙️ [MIRA – AI Voice Assistant](https://github.com/RaGaS958/MIRA.git)
 > Voice-controlled AI assistant powered by Google Gemini AI
 - Python, Speech Recognition, Text-to-Speech, and Web Automation
 - 🎵 Plays songs, opens websites, answers queries, and automates tasks
 - 🎧 Includes notification sound and customizable music library
 
-### 🧑‍🍳 FitBot AI – Fitness & Diet Assistant
+### 🧑‍🍳 [FitBot AI – Fitness & Diet Assistant](https://github.com/RaGaS958/FitBot-AI.git)
 > Personalized fitness & nutrition planner for students
 - 🏋️ Generates short workouts, culturally-aware diet plans & chat guidance
 - 🥗 Focused on affordability, accessibility & student health
 - 💻 Streamlit app with chat UI, lottie animations, and Gemini integration
 
-### 🏙️ Airbnb (Vois) Data Analysis  
+### 🏙️ [Airbnb (Vois) Data Analysis](https://github.com/RaGaS958/AIRBNB-VOIS-.git)  
 > Exploring NYC’s rental trends through data storytelling  
 - Focus on **pricing**, **reviews**, **hosts**, and **geographical distribution**  
 - 🧠 Data cleaned and analyzed using **Python**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**
 
-### 🎬 Netflix Data Analysis  
+### 🎬 [Netflix Data Analysis](https://github.com/RaGaS958/VOIS_AICTE_Oct2025_MajorProject_PUSHKAR_KHATTRI.git)  
 > Data storytelling powered by Python and modern visualization  
 - Built with **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
 - 📊 Extracts patterns in Netflix content distribution, ratings, genres, and release trends
 
-### 🚗 Ford Price Prediction  
+### 🚗 [Ford Price Prediction](https://github.com/RaGaS958/Ford_Price_Prediction-ML_model-.git)  
 > AI-powered used car price estimation for smarter buying decisions  
 - Predicts **Ford car prices** based on key vehicle attributes  
 - 🤖 Built with **Linear Regression**  
 - ⚡ Achieved **88.34% Adjusted R² Score**  
 - 🛠️ 6 key features analyzed: model, year, mileage, transmission, fuel type, engine size  
 
-### 🌊 Tsunami Prediction using Machine Learning  
+### 🌊 [Tsunami Prediction using Machine Learning](https://github.com/RaGaS958/Tsunami_Prediction.git)  
 > AI-driven early warning insights for coastal safety  
 - Predicts **tsunami occurrence** using seismic event parameters  
 - 🤖 Powered by **KNN, Logistic Regression, SVM, Decision Tree & Naive Bayes**  
 
+### ⚡ [EMOMATE – AI Emotion Detection System](https://github.com/RaGaS958/EMOMATE.git)
 
-### ❤️ HeartCare AI Predictor  
+> NLP-powered platform that predicts **6 human emotions** with **88% accuracy** using real-time text analysis
+
+- **Python, Streamlit, Scikit-learn, NLTK, Bag-of-Words**
+- 🎭 Detects **Joy, Sadness, Anger, Love, Fear, Surprise**
+- ⚡ Fast ML inference with Logistic Regression (Production Model)
+- 📊 Interactive UI with emotion-based quotes & animated characters
+- 🤖 Useful for customer support, mental health insights & sentiment tracking
+
+
+### ❤️ [HeartCare AI Predictor](https://github.com/RaGaS958/HeartCareAI.git)  
 > Smart cardiac risk detection for early health protection  
 - Predicts **heart disease likelihood** using patient clinical data  
 - 🤖 Built with **Logistic Regression, KNN, SVM, Decision Tree & Naive Bayes**  
@@ -141,7 +146,7 @@
 - 🩺 18 medical parameters analyzed for precise risk classification  
 
 
-### ⚡ EV_aluate – EV Intelligence Platform
+### ⚡ [EV_aluate – EV Intelligence Platform](https://github.com/RaGaS958/EV_aulate.git)
 
 > AI-powered analytics system predicting EV Innovation Score & CO₂ Savings
 
@@ -149,6 +154,49 @@
 - 🚗 Analyzes 360+ EVs for sustainability & performance benchmarking
 - 📊 Interactive ML dashboard with CO₂ impact and innovation insights
 - 🌱 Promotes data-driven decisions for greener mobility
+
+### ⚡ [EV_Q:? – Multi-Agent EV Expert System](https://github.com/RaGaS958/EV_Q.git)  
+
+> AI-powered expert system offering real-time EV assistance across technical, financial, sales, and policy domains
+
+- **Python, Streamlit, Gemini 2.5 Flash Lite, Google ADK**  
+- 🤖 **5 specialized AI agents** for diagnostics, pricing, finance, policy & personalized recommendations  
+- ⚡ **Lightning-fast responses** with intelligent multi-agent orchestration  
+- 🌐 **Real-time web search integration** for latest EV insights  
+- 🎨 **Modern animated UI** with multi-page navigation & live agent statistics
+
+### ♻️ [Smart Waste Management System](https://github.com/RaGaS958/WasteManagement.git)
+
+> AI-powered waste classification platform using real-time webcam detection & gamified recycling points
+
+- **TensorFlow.js, Teachable Machine, JavaScript, HTML/CSS**
+- 🧠 Detects 16+ waste categories with **94% model accuracy**
+- 🎥 Real-time **webcam-based waste recognition** using MobileNetV2
+- 💰 **Points & rewards system** to encourage sustainable waste disposal
+- 📈 Built-in **analytics dashboard**, history tracking & progress visualization
+- 🌍 Designed to promote **eco-friendly behavior** through gamification
+
+### 🩺 [BioSignal LTI Analysis Pro](https://github.com/RaGaS958/BIOMEDICAL-SIGNAL-PROCESSING-AND-LINEAR-TIME-INVARIANT-SYSTEM-VERIFICATION.git)
+
+> Advanced biomedical signal processing platform demonstrating real-time ECG-like signal generation, noise removal, and LTI system verification
+
+- **Python, Streamlit, NumPy, SciPy, Plotly**
+- 🎛️ Generate synthetic ECG-like signals with harmonics & configurable noise
+- 🔧 Apply Butterworth filtering with real-time frequency response visualization
+- 📊 Perform LTI validation (linearity & time-invariance) with mathematical proofs
+- 📈 Analyze SNR, MSE, correlation, FFT spectrum & reconstruction metrics
+- 💾 Export filtered signals & analysis reports for research and academic use
+
+### 🤖 [AgentForge – Meta-Agentic AI Platform](https://github.com/RaGaS958/AgentForge-Meta-Agentic-AI-Platform.git)
+
+> An AI system that architects, codes, deploys, and teaches users to build multi-agent AI systems through natural language
+
+- Python 3.11+, Google ADK, Gemini 2.5 Flash
+- 🧠 Self-referential agentic architecture (Architect • CodeGen • Teacher • Evolution)
+- 🔄 End-to-end workflow: requirement → blueprint → code → onboarding → optimization
+- 🤝 A2A communication protocol for specialist agent coordination
+- 📚 6 ready-to-deploy agent templates for instant system creation
+- 🚀 Production-ready orchestration with memory, context compaction & async execution
 
 
 
