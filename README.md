@@ -233,6 +233,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400">
 
 [![Gmail](https://img.shields.io/badge/-pushkarkhattri111@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pushkarkhattri111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-khattri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://pushkarkhattri.lovable.app/)
+
+
 
 ---
 
