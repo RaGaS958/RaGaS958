@@ -216,15 +216,22 @@
 ## 📈 GitHub Stats
 
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaGaS958&show_icons=true&theme=radical" alt="Pushkar's GitHub Stats" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=RaGaS958&show_icons=true&theme=radical" 
+       alt="RaGaS958 GitHub Stats"
+  />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaGaS958&theme=dark&hide_border=true" />
-
+  <img 
+       src="https://streak-stats.demolab.com?user=RaGaS958&theme=radical&hide_border=true" 
+       alt="RaGaS958 Streak Stats"
+  />
 </p>
+
 
 ---
 
