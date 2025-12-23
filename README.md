@@ -206,6 +206,17 @@
 - 🚀 Production-ready orchestration with memory, context compaction & async execution
 
 
+### 🍰 [FoodCarry – Precision Food Logistics Platform](https://github.com/RaGaS958/FoodCarry.git)
+
+> An AI-powered, food-first delivery platform engineered to protect fragile and temperature-sensitive food with precision logistics and real-time intelligence
+
+- ⚛️ React 18, TypeScript, Vite, Tailwind CSS
+- 🤖 Google Gemini AI + Veo 3.1 for logistics intelligence & simulation
+- 🛡️ Floating-deck delivery vaults with **80% shock reduction**
+- 🌡️ FSSAI-compliant thermal control using PCM & real-time sensors
+- 📡 Live telemetry: G-force, temperature, tilt & route risk analysis
+- 🎬 AI-generated logistics simulations for food safety visualization
+- 🚀 Production-ready system built under **Google for Startups**
 
 
 ### 🙌🏻 More to come,In progress 🚧 
