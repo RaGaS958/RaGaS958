@@ -1,5 +1,6 @@
 <!-- README.md -->
-     
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+    
 <h1 align="center">Hello,I'm Pushkar Khattri 👋</h1>
 
 
@@ -37,6 +38,7 @@
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width='100%'/>
+
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="100">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="100">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="100">
@@ -234,6 +236,11 @@
        alt="RaGaS958 GitHub Stats"
   />
 </p>
+
+<!-- Vector Tool Gif -->
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- Vector Tool Gif Ends -->
 
 <!-- Streak Stats -->
 <p align="center">
