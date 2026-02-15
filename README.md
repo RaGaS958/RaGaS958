@@ -220,7 +220,7 @@
 - 🎬 AI-generated logistics simulations for food safety visualization
 - 🚀 Production-ready system built under **Google for Startups**
 
-  ### 🌊 [Tsunami Advance ML Prediction – Intelligent Disaster Forecasting System](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction.git)
+### 🌊 [Tsunami Advance ML Prediction – Intelligent Disaster Forecasting System](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction.git)
 
 > An advanced Machine Learning–driven disaster prediction platform designed to forecast tsunami risks using seismic, oceanographic, and environmental data for early warning and risk mitigation
 
@@ -234,7 +234,7 @@
 - 🚀 Scalable ML pipeline ready for research, simulation & deployment
 
 
-  ### 🤖 [TextEmo – AI Text & Emotion Intelligence System](https://github.com/RaGaS958/TextEmo.git)
+### 🤖 [TextEmo – AI Text & Emotion Intelligence System](https://github.com/RaGaS958/TextEmo.git)
 
 > A dual-model AI system that combines Deep Learning and Machine Learning to deliver real-time text prediction and emotion intelligence with high accuracy and ultra-fast inference
 
