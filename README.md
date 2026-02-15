@@ -258,12 +258,6 @@
 
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=RaGaS958&show_icons=true&theme=radical" 
-       alt="RaGaS958 GitHub Stats"
-  />
-</p>
 
 <!-- Vector Tool Gif -->
 <p align='center'>
