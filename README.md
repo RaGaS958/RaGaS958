@@ -220,6 +220,34 @@
 - 🎬 AI-generated logistics simulations for food safety visualization
 - 🚀 Production-ready system built under **Google for Startups**
 
+  ### 🌊 [Tsunami Advance ML Prediction – Intelligent Disaster Forecasting System](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction.git)
+
+> An advanced Machine Learning–driven disaster prediction platform designed to forecast tsunami risks using seismic, oceanographic, and environmental data for early warning and risk mitigation
+
+- 🧠 Advanced ML models for **tsunami risk prediction & probability analysis**
+- 🐍 Python, scikit-learn, NumPy, Pandas, Matplotlib
+- 🌍 Data-driven forecasting using **seismic & oceanic parameters**
+- 📊 Real-time risk scoring with visualization & trend analysis
+- ⚡ Fast inference for early-warning decision support systems
+- 🎯 Optimized model performance with feature engineering & tuning
+- 🛰️ Supports disaster preparedness, evacuation planning & safety analytics
+- 🚀 Scalable ML pipeline ready for research, simulation & deployment
+
+
+  ### 🤖 [TextEmo – AI Text & Emotion Intelligence System](https://github.com/RaGaS958/TextEmo.git)
+
+> A dual-model AI system that combines Deep Learning and Machine Learning to deliver real-time text prediction and emotion intelligence with high accuracy and ultra-fast inference
+
+- 🧠 Dual-Model Architecture: **LSTM Next-Word Predictor + Emotion Classifier**
+- 🐍 Python, TensorFlow, Keras, scikit-learn, Streamlit
+- ⚡ Real-time inference with **<100ms latency**
+- 🎯 High accuracy system: **~88%+ across models**
+- 🎭 Emotion detection across **6 emotions (Joy, Sadness, Anger, Fear, Love, Surprise)**
+- 📊 Interactive analytics dashboard with confidence scoring & visualizations
+- 💾 Optimized model caching & scalable architecture (1000+ req/min)
+- 🚀 Production-ready AI deployed with Streamlit Cloud & Docker support
+
+
 
 ### 🙌🏻 More to come,In progress 🚧 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
