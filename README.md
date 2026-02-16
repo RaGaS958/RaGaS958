@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 - 🧠 AI Engineer & Full-Stack Developer focused on building scalable Agentic AI systems, automation tools, and real-time apps.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width='100%'/>
@@ -61,191 +61,155 @@
 
 ---
 
-## 🧩 Featured Projects
+# 🧩 Projects
+
+## 🌟 Flagship Creations
+
+### 🤖 [AgentForge – Meta-Agentic AI Platform](https://github.com/RaGaS958/AgentForge-Meta-Agentic-AI-Platform.git)
+> AI system that architects, codes, deploys, and teaches users to build multi-agent AI systems  
+- Python 3.11+, Google ADK, Gemini 2.5 Flash  
+- Self-referential agentic architecture (Architect • CodeGen • Teacher • Evolution)  
+- End-to-end workflow: requirement → blueprint → code → onboarding → optimization  
+
+### 🍰 [FoodCarry – Precision Food Logistics Platform](https://github.com/RaGaS958/FoodCarry.git)
+> AI-powered logistics platform for fragile & temperature-sensitive food delivery  
+- React 18, TypeScript, Tailwind, Gemini AI  
+- Floating-deck vaults with 80% shock reduction  
+- Real-time telemetry, route risk & thermal monitoring  
+
+### 🌊 [Tsunami Advance ML Prediction](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction.git)
+> Advanced ML disaster forecasting system for tsunami risk prediction  
+- Python, scikit-learn, Pandas, NumPy  
+- Real-time risk scoring & visualization  
+- Optimized ML pipeline for early warning systems  
+
+### 🤖 [HealthWise Agent – AI Symptom Triage Assistant](https://github.com/RaGaS958/HealthWise_Agent.git)
+> Safety-first AI health triage using Agentic AI  
+- NLP + RAG + ReAct Agents  
+- Built for IBM watsonx.ai Hackathon  
+- Credible medical knowledge with structured risk analysis  
 
 ### 🧠 [EMMA – AI Mental Health Chatbot](https://github.com/RaGaS958/EMMA.git)
-> AI-powered chatbot for emotional support using CBT principles
-- Built with **React.js**, **Tailwind**, **NLP**, **HIPAA-compliant architecture**
-- 🧠 Enhanced mental health interaction for young adults
+> AI-powered emotional support chatbot using CBT principles  
+- React.js, Tailwind, NLP  
+- Personalized mental wellness interaction  
+- Safe & scalable conversational architecture  
 
-### 💊 [MedoKnow – Public Health Awareness](https://github.com/RaGaS958/Medoknow.git)
-> Real-time medicine lookup and awareness tool
-- JavaScript, HTML, CSS with animated **Vanta.js** UI
-- 🔍 Custom search for drug data and brand recognition
+
+
+## 🚀 Advanced Builds
+
+### ⚡ [TextEmo – AI Text & Emotion Intelligence](https://github.com/RaGaS958/TextEmo.git)
+> A dual-model AI system that combines Deep Learning and Machine Learning to deliver real-time text prediction and emotion intelligence with high accuracy and ultra-fast inference
+- Dual-model: LSTM Next Word + Emotion Classifier  
+- TensorFlow, Keras, Streamlit  
+- Real-time inference with high accuracy  
+
+### ⚡ [EMOMATE – AI Emotion Detection System](https://github.com/RaGaS958/EMOMATE.git)
+> NLP-powered platform that predicts **6 human emotions** with **88% accuracy** using real-time text analysis
+- Predicts 6 emotions with ~88% accuracy  
+- Python, NLTK, Streamlit, Scikit-learn  
+- Interactive emotion-based UI  
+
+### ♻️ [Smart Waste Management System](https://github.com/RaGaS958/WasteManagement.git)
+> AI-powered waste classification platform using real-time webcam detection & gamified recycling points
+- TensorFlow.js + MobileNetV2 waste detection  
+- Real-time webcam classification (16+ categories)  
+- Gamified recycling with analytics  
+
+### 🩺 [BioSignal LTI Analysis Pro](https://github.com/RaGaS958/BIOMEDICAL-SIGNAL-PROCESSING-AND-LINEAR-TIME-INVARIANT-SYSTEM-VERIFICATION.git)
+> Advanced biomedical signal processing platform demonstrating real-time ECG-like signal generation, noise removal, and LTI system verification
+- Biomedical signal generation & filtering  
+- LTI verification with FFT, SNR, MSE  
+- Research-grade analytics dashboard  
+
+### ⚡ [EV_Q – Multi-Agent EV Expert System](https://github.com/RaGaS958/EV_Q.git)
+> AI-powered expert system offering real-time EV assistance across technical, financial, sales, and policy domains
+- Multi-agent EV assistant (tech, finance, policy)  
+- Python, Streamlit, Gemini AI  
+- Real-time web insights & orchestration  
+
+### ⚡ [EV_aluate – EV Intelligence Platform](https://github.com/RaGaS958/EV_aulate.git)
+> AI-powered analytics system predicting EV Innovation Score & CO₂ Savings
+- Predicts EV innovation & CO₂ savings  
+- XGBoost, Plotly, Streamlit  
+- Sustainability-focused analytics  
+
+### 🏥 [FitBot AI – Fitness & Diet Assistant](https://github.com/RaGaS958/FitBot-AI.git)
+> Personalized fitness & nutrition planner for students
+- AI-generated workouts & diet plans  
+- Streamlit + Gemini AI  
+- Affordable & student-focused health assistant  
+
+### ✈️ [Voyage – AI Travel Planner](https://github.com/RaGaS958/Voyage.git)
+> AI-powered travel planning assistant powered by automation  
+- Automation-powered itinerary generator  
+- n8n, Gemini/OpenAI, Google Sheets API  
+- Instant personalized travel plans  
+
+
+
+## 🛠️ Core Projects
 
 ### 📋 [Pastu – Paste & Share Code](https://github.com/RaGaS958/Pastu.git)
 > Clean code sharing platform
-- **React.js + Redux**, Tailwind, Routing & Real-time session handling
-- ⚡ Supports 1000+ concurrent users with performance optimization
+- React.js + Redux, Tailwind  
+- Real-time session handling  
+- Supports 1000+ users  
 
-### ✈️ [Voyage – AI Travel Itinerary Planner](https://github.com/RaGaS958/Voyage.git)  
-> AI-powered travel planning assistant powered by automation  
-- Built with **Lovable App**, **n8n**, **Google Gemini/OpenAI**, **Google Sheets API**  
-- 🚀 Personalized itineraries delivered instantly to your **email inbox**
-
-### 🏥 [HealthWise Agent – AI Symptom Triage Assistant](https://github.com/RaGaS958/HealthWise_Agent.git)  
-> Safe, structured, and verified health information using Agentic AI  
-- Developed for the **IBM watsonx.ai Hackathon**  
-- 🧠 Uses **NLP + RAG + ReAct Agents** to analyze symptoms  
-- 🚨 Prioritizes **safety-first triage** with credible medical sources (WHO, CDC, Mayo Clinic)
-
+### 💊 [MedoKnow – Public Health Awareness](https://github.com/RaGaS958/Medoknow.git)
+> Real-time medicine lookup and awareness tool
+- Medicine lookup & awareness platform  
+- JavaScript, HTML, CSS, Vanta.js  
+- Custom drug search & UI  
 
 ### 📚 [Studmate – Student Productivity Dashboard](https://github.com/RaGaS958/Studmate.git)
 > All-in-one productivity companion for students
-- HTML, CSS, JavaScript (Vanilla)
-- 🎯 Tracks progress, manages notes, boosts focus & gamifies learning
-- 🤖 Includes AI Assistant, Analytics & Gamification System
+- Progress tracking, notes & analytics  
+- Vanilla JS, HTML, CSS  
+- Gamified productivity system  
 
-### 💬 [Tex – WhatsApp Auto-Reply Automation](https://github.com/RaGaS958/TEX.git)
+### 💬 [Tex – WhatsApp Auto Reply AI](https://github.com/RaGaS958/TEX.git)
 > Smart AI automation tool for WhatsApp using Google Gemini AI
-- Python, PyAutoGUI, Clipboard, and Gemini API
-- 📋 Reads messages and generates context-aware replies automatically
-- ⚡ Fully automated typing and sending via GUI scripting
+- Python + Gemini AI automation  
+- Reads & replies automatically  
+- GUI-based message automation  
 
 ### 🎙️ [MIRA – AI Voice Assistant](https://github.com/RaGaS958/MIRA.git)
 > Voice-controlled AI assistant powered by Google Gemini AI
-- Python, Speech Recognition, Text-to-Speech, and Web Automation
-- 🎵 Plays songs, opens websites, answers queries, and automates tasks
-- 🎧 Includes notification sound and customizable music library
+- Speech recognition + automation  
+- Plays music, opens apps, answers queries  
+- Customizable voice assistant  
 
-### 🧑‍🍳 [FitBot AI – Fitness & Diet Assistant](https://github.com/RaGaS958/FitBot-AI.git)
-> Personalized fitness & nutrition planner for students
-- 🏋️ Generates short workouts, culturally-aware diet plans & chat guidance
-- 🥗 Focused on affordability, accessibility & student health
-- 💻 Streamlit app with chat UI, lottie animations, and Gemini integration
-
-### 🏙️ [Airbnb (Vois) Data Analysis](https://github.com/RaGaS958/AIRBNB-VOIS-.git)  
+### 🏙️ [Airbnb Data Analysis](https://github.com/RaGaS958/AIRBNB-VOIS-.git)
 > Exploring NYC’s rental trends through data storytelling  
-- Focus on **pricing**, **reviews**, **hosts**, and **geographical distribution**  
-- 🧠 Data cleaned and analyzed using **Python**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**
+- Python, Pandas, NumPy, Seaborn  
+- Rental trend & pricing insights  
+- Data storytelling  
 
-### 🎬 [Netflix Data Analysis](https://github.com/RaGaS958/VOIS_AICTE_Oct2025_MajorProject_PUSHKAR_KHATTRI.git)  
+### 🎬 [Netflix Data Analysis](https://github.com/RaGaS958/VOIS_AICTE_Oct2025_MajorProject_PUSHKAR_KHATTRI.git)
 > Data storytelling powered by Python and modern visualization  
-- Built with **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
-- 📊 Extracts patterns in Netflix content distribution, ratings, genres, and release trends
+- Content & genre trend analysis  
+- Pandas, NumPy, Matplotlib  
+- Visualization-driven insights  
 
-### 🚗 [Ford Price Prediction](https://github.com/RaGaS958/Ford_Price_Prediction-ML_model-.git)  
+### 🚗 [Ford Price Prediction](https://github.com/RaGaS958/Ford_Price_Prediction-ML_model-.git)
 > AI-powered used car price estimation for smarter buying decisions  
-- Predicts **Ford car prices** based on key vehicle attributes  
-- 🤖 Built with **Linear Regression**  
-- ⚡ Achieved **88.34% Adjusted R² Score**  
-- 🛠️ 6 key features analyzed: model, year, mileage, transmission, fuel type, engine size  
+- ML car price estimator  
+- Linear Regression, 88% Adj R²  
+- Feature-based prediction  
 
-### 🌊 [Tsunami Prediction using Machine Learning](https://github.com/RaGaS958/Tsunami_Prediction.git)  
+### 🌊 [Tsunami Prediction ML](https://github.com/RaGaS958/Tsunami_Prediction.git)
 > AI-driven early warning insights for coastal safety  
-- Predicts **tsunami occurrence** using seismic event parameters  
-- 🤖 Powered by **KNN, Logistic Regression, SVM, Decision Tree & Naive Bayes**  
+- Predicts tsunami occurrence  
+- KNN, SVM, Logistic Regression  
+- Disaster risk analytics  
 
-### ⚡ [EMOMATE – AI Emotion Detection System](https://github.com/RaGaS958/EMOMATE.git)
-
-> NLP-powered platform that predicts **6 human emotions** with **88% accuracy** using real-time text analysis
-
-- **Python, Streamlit, Scikit-learn, NLTK, Bag-of-Words**
-- 🎭 Detects **Joy, Sadness, Anger, Love, Fear, Surprise**
-- ⚡ Fast ML inference with Logistic Regression (Production Model)
-- 📊 Interactive UI with emotion-based quotes & animated characters
-- 🤖 Useful for customer support, mental health insights & sentiment tracking
-
-
-### ❤️ [HeartCare AI Predictor](https://github.com/RaGaS958/HeartCareAI.git)  
+### ❤️ [HeartCare AI Predictor](https://github.com/RaGaS958/HeartCareAI.git)
 > Smart cardiac risk detection for early health protection  
-- Predicts **heart disease likelihood** using patient clinical data  
-- 🤖 Built with **Logistic Regression, KNN, SVM, Decision Tree & Naive Bayes**  
-- ⚡ Instant results with **89.67% accuracy**  
-- 🩺 18 medical parameters analyzed for precise risk classification  
-
-
-### ⚡ [EV_aluate – EV Intelligence Platform](https://github.com/RaGaS958/EV_aulate.git)
-
-> AI-powered analytics system predicting EV Innovation Score & CO₂ Savings
-
-- Python, Streamlit, XGBoost, Linear Regression, Plotly
-- 🚗 Analyzes 360+ EVs for sustainability & performance benchmarking
-- 📊 Interactive ML dashboard with CO₂ impact and innovation insights
-- 🌱 Promotes data-driven decisions for greener mobility
-
-### ⚡ [EV_Q:? – Multi-Agent EV Expert System](https://github.com/RaGaS958/EV_Q.git)  
-
-> AI-powered expert system offering real-time EV assistance across technical, financial, sales, and policy domains
-
-- **Python, Streamlit, Gemini 2.5 Flash Lite, Google ADK**  
-- 🤖 **5 specialized AI agents** for diagnostics, pricing, finance, policy & personalized recommendations  
-- ⚡ **Lightning-fast responses** with intelligent multi-agent orchestration  
-- 🌐 **Real-time web search integration** for latest EV insights  
-- 🎨 **Modern animated UI** with multi-page navigation & live agent statistics
-
-### ♻️ [Smart Waste Management System](https://github.com/RaGaS958/WasteManagement.git)
-
-> AI-powered waste classification platform using real-time webcam detection & gamified recycling points
-
-- **TensorFlow.js, Teachable Machine, JavaScript, HTML/CSS**
-- 🧠 Detects 16+ waste categories with **94% model accuracy**
-- 🎥 Real-time **webcam-based waste recognition** using MobileNetV2
-- 💰 **Points & rewards system** to encourage sustainable waste disposal
-- 📈 Built-in **analytics dashboard**, history tracking & progress visualization
-- 🌍 Designed to promote **eco-friendly behavior** through gamification
-
-### 🩺 [BioSignal LTI Analysis Pro](https://github.com/RaGaS958/BIOMEDICAL-SIGNAL-PROCESSING-AND-LINEAR-TIME-INVARIANT-SYSTEM-VERIFICATION.git)
-
-> Advanced biomedical signal processing platform demonstrating real-time ECG-like signal generation, noise removal, and LTI system verification
-
-- **Python, Streamlit, NumPy, SciPy, Plotly**
-- 🎛️ Generate synthetic ECG-like signals with harmonics & configurable noise
-- 🔧 Apply Butterworth filtering with real-time frequency response visualization
-- 📊 Perform LTI validation (linearity & time-invariance) with mathematical proofs
-- 📈 Analyze SNR, MSE, correlation, FFT spectrum & reconstruction metrics
-- 💾 Export filtered signals & analysis reports for research and academic use
-
-### 🤖 [AgentForge – Meta-Agentic AI Platform](https://github.com/RaGaS958/AgentForge-Meta-Agentic-AI-Platform.git)
-
-> An AI system that architects, codes, deploys, and teaches users to build multi-agent AI systems through natural language
-
-- Python 3.11+, Google ADK, Gemini 2.5 Flash
-- 🧠 Self-referential agentic architecture (Architect • CodeGen • Teacher • Evolution)
-- 🔄 End-to-end workflow: requirement → blueprint → code → onboarding → optimization
-- 🤝 A2A communication protocol for specialist agent coordination
-- 📚 6 ready-to-deploy agent templates for instant system creation
-- 🚀 Production-ready orchestration with memory, context compaction & async execution
-
-
-### 🍰 [FoodCarry – Precision Food Logistics Platform](https://github.com/RaGaS958/FoodCarry.git)
-
-> An AI-powered, food-first delivery platform engineered to protect fragile and temperature-sensitive food with precision logistics and real-time intelligence
-
-- ⚛️ React 18, TypeScript, Vite, Tailwind CSS
-- 🤖 Google Gemini AI + Veo 3.1 for logistics intelligence & simulation
-- 🛡️ Floating-deck delivery vaults with **80% shock reduction**
-- 🌡️ FSSAI-compliant thermal control using PCM & real-time sensors
-- 📡 Live telemetry: G-force, temperature, tilt & route risk analysis
-- 🎬 AI-generated logistics simulations for food safety visualization
-- 🚀 Production-ready system built under **Google for Startups**
-
-### 🌊 [Tsunami Advance ML Prediction – Intelligent Disaster Forecasting System](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction.git)
-
-> An advanced Machine Learning–driven disaster prediction platform designed to forecast tsunami risks using seismic, oceanographic, and environmental data for early warning and risk mitigation
-
-- 🧠 Advanced ML models for **tsunami risk prediction & probability analysis**
-- 🐍 Python, scikit-learn, NumPy, Pandas, Matplotlib
-- 🌍 Data-driven forecasting using **seismic & oceanic parameters**
-- 📊 Real-time risk scoring with visualization & trend analysis
-- ⚡ Fast inference for early-warning decision support systems
-- 🎯 Optimized model performance with feature engineering & tuning
-- 🛰️ Supports disaster preparedness, evacuation planning & safety analytics
-- 🚀 Scalable ML pipeline ready for research, simulation & deployment
-
-
-### 🤖 [TextEmo – AI Text & Emotion Intelligence System](https://github.com/RaGaS958/TextEmo.git)
-
-> A dual-model AI system that combines Deep Learning and Machine Learning to deliver real-time text prediction and emotion intelligence with high accuracy and ultra-fast inference
-
-- 🧠 Dual-Model Architecture: **LSTM Next-Word Predictor + Emotion Classifier**
-- 🐍 Python, TensorFlow, Keras, scikit-learn, Streamlit
-- ⚡ Real-time inference with **<100ms latency**
-- 🎯 High accuracy system: **~88%+ across models**
-- 🎭 Emotion detection across **6 emotions (Joy, Sadness, Anger, Fear, Love, Surprise)**
-- 📊 Interactive analytics dashboard with confidence scoring & visualizations
-- 💾 Optimized model caching & scalable architecture (1000+ req/min)
-- 🚀 Production-ready AI deployed with Streamlit Cloud & Docker support
+- Heart disease risk prediction  
+- ML classification models  
+- Clinical parameter analysis  
 
 
 
@@ -254,7 +218,7 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 
 <!-- GitHub Stats -->
@@ -275,7 +239,7 @@
 
 ---
 
-## 🎯 Let's Connect
+# 🎯 Let's Connect
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400">
 
@@ -287,7 +251,7 @@
 
 ---
 
-## ✨ Fun Fact
+# ✨ Fun Fact
 
 > “I turn caffeine into scalable code & hackathons into launchpads 🚀.”
 
