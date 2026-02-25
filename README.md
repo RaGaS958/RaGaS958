@@ -99,12 +99,6 @@
 
 ## 🚀 Advanced Builds
 
-### 🩺 [DiabeteAI — Deep Learning Predictor](https://github.com/RaGaS958/DiabeteAI-Deep-Learning-Predictor)
-> Production-grade multi-page Streamlit app powered by a TensorFlow ANN trained on 100,000 clinical records to classify diabetes risk in real-time using 26 validated biomarkers
-- ANN deep learning model — 96.2% accuracy, AUC-ROC 0.983
-- 26-feature clinical prediction with live risk scoring
-- Dockerized & deployed on Streamlit Cloud
-
 ### ⚡ [TextEmo – AI Text & Emotion Intelligence](https://github.com/RaGaS958/TextEmo.git)
 > A dual-model AI system that combines Deep Learning and Machine Learning to deliver real-time text prediction and emotion intelligence with high accuracy and ultra-fast inference
 - Dual-model: LSTM Next Word + Emotion Classifier  
@@ -215,7 +209,14 @@
 > Smart cardiac risk detection for early health protection  
 - Heart disease risk prediction  
 - ML classification models  
-- Clinical parameter analysis  
+- Clinical parameter analysis
+
+ ### 🩺 [DiabeteAI — Deep Learning Predictor](https://github.com/RaGaS958/DiabeteAI-Deep-Learning-Predictor)
+> Production-grade multi-page Streamlit app powered by a TensorFlow ANN trained on 100,000 clinical records to classify diabetes risk in real-time using 26 validated biomarkers
+- ANN deep learning model — 96.2% accuracy, AUC-ROC 0.983
+- 26-feature clinical prediction with live risk scoring
+- Dockerized & deployed on Streamlit Cloud
+
 
 
 
