@@ -65,6 +65,13 @@
 
 ## 🌟 Flagship Creations
 
+### 🐾 [PawsAI – Cat vs Dog Deep Learning Classifier](https://github.com/RaGaS958/PawAi.git)
+> Deep learning web app that classifies cats vs dogs using CNN and VGG16 Transfer Learning, served through an interactive Streamlit interface
+- Python 3.11, TensorFlow 2.20, Keras, Streamlit, Docker
+- Dual-model architecture (Custom CNN • VGG16 Transfer Learning)
+- End-to-end workflow: image upload → preprocess → inference → confidence visualization → result
+
+
 ### 🤖 [AgentForge – Meta-Agentic AI Platform](https://github.com/RaGaS958/AgentForge-Meta-Agentic-AI-Platform.git)
 > AI system that architects, codes, deploys, and teaches users to build multi-agent AI systems  
 - Python 3.11+, Google ADK, Gemini 2.5 Flash  
