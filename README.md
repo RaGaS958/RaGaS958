@@ -110,7 +110,13 @@
 > A dual-model AI system that combines Deep Learning and Machine Learning to deliver real-time text prediction and emotion intelligence with high accuracy and ultra-fast inference
 - Dual-model: LSTM Next Word + Emotion Classifier  
 - TensorFlow, Keras, Streamlit  
-- Real-time inference with high accuracy  
+- Real-time inference with high accuracy
+
+### 🏦 [ChurnSight – Bank Customer Churn Intelligence Platform](https://github.com/RaGaS958/ChurnSight.git)
+> An ANN-powered deep learning application that predicts bank customer churn with 87.23% validation accuracy, wrapped in a glassmorphism Streamlit UI and deployed via Docker
+- ANN Architecture: Dense(72) → Dropout → Dense(62) → Sigmoid  
+- TensorFlow, Keras, Streamlit, Plotly  
+- Dockerized & live on Streamlit Cloud
 
 ### ⚡ [EMOMATE – AI Emotion Detection System](https://github.com/RaGaS958/EMOMATE.git)
 > NLP-powered platform that predicts **6 human emotions** with **88% accuracy** using real-time text analysis
