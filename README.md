@@ -65,6 +65,13 @@
 
 ## 🌟 Flagship Creations
 
+### 🧠 [VisageIQ – Age & Gender Deep Learning Predictor](https://github.com/RaGaS958/VisageIQ-Age-Gender-AI.git)
+> Multi-task deep learning web app that simultaneously estimates age and classifies gender from face images using EfficientNetB3, served through an interactive Streamlit interface
+- Python 3.11, TensorFlow 2.20, Keras, Streamlit, Docker
+- Dual-output architecture (Age Regression • Gender Binary Classification) with shared EfficientNetB3 backbone
+- End-to-end workflow: image upload → preprocess → inference → confidence gauge → age group probability chart → result
+
+
 ### 🐾 [PawsAI – Cat vs Dog Deep Learning Classifier](https://github.com/RaGaS958/PawAi.git)
 > Deep learning web app that classifies cats vs dogs using CNN and VGG16 Transfer Learning, served through an interactive Streamlit interface
 - Python 3.11, TensorFlow 2.20, Keras, Streamlit, Docker
