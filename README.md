@@ -305,7 +305,7 @@ class PushkarKhattri:
 
 <div align="center">
 
-> 📄 **Artificial Neural Network Approach for Intelligent Network Intrusion Detection**
+> [📄 **Artificial Neural Network Approach for Intelligent Network Intrusion Detection**](https://www.researchgate.net/publication/401541832_Artificial_Neural_Network_Approach_for_Intelligent_Network_Intrusion_Detection)
 > 
 > Exploring deep learning architectures for real-time cybersecurity threat detection.
 
