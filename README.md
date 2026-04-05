@@ -41,7 +41,7 @@ class PushkarKhattri:
         "🎯 Finalist – GDG Hackathon"
     ]
     internships = 7
-    projects    = "19+"
+    projects    = "30+"
     passion     = ["Mental Health AI", "Disaster Tech",
                    "Green Skills", "Human-Centered AI"]
     currently   = "Exploring multi-agent orchestration & GenAI UI"
@@ -138,8 +138,6 @@ class PushkarKhattri:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -336,7 +334,7 @@ class PushkarKhattri:
 
 > *"I turn caffeine into scalable code & hackathons into launchpads 🚀."*
 >
-> **2+ Yrs Experience · 19+ Projects · 7 Internships · 98% ML Accuracy · 3× Hackathon Finalist · 🥉 AgentHathonX**
+> **2+ Yrs Experience · 30+ Projects · 7 Internships · 98% ML Accuracy · 3× Hackathon Finalist · 🥉 AgentHathonX**
 
 </div>
 
