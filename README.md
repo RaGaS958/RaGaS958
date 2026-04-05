@@ -293,23 +293,15 @@ class PushkarKhattri:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RaGaS958&theme=radical&hide_border=true&border_radius=10" alt="Streak Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RaGaS958&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="49%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaGaS958&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10" alt="Top Languages" width="49%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaGaS958&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="49%"/>
 </div>
 
 ---
 
-## 🏅 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaGaS958&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
 
 ## 📰 Publication
 
