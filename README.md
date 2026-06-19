@@ -298,6 +298,8 @@ class PushkarKhattri:
 
 </div>
 
+![svg](profile-3d-contrib/profile-night-green.svg)
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaGaS958&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="49%"/>
 </div>
@@ -318,8 +320,9 @@ class PushkarKhattri:
 ---
 
 ## 🎯 Let's Connect
-
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400"/>
+</div>
 
 <div align="center">
 
