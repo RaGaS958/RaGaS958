@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="Banner GIF"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=LLMs+%E2%80%A2+RAG+Pipelines+%E2%80%A2+Agentic+AI+Systems;Multi-Agent+Orchestration+%E2%80%A2+Cloud+Automation;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;4%C3%97+Hackathon+Finalist+%26+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=LLMs+%E2%80%A2+RAG+Pipelines+%E2%80%A2+Agentic+AI+Systems;Multi-Agent+Orchestration+%E2%80%A2+Cloud+Automation;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;2%C3%97+Hackathon+Finalist+%26+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -33,16 +33,15 @@ class PushkarKhattri:
     location    = "Lucknow, Uttar Pradesh, India 🇮🇳"
     focus       = ["Agentic AI", "RAG Pipelines", "LLMs", 
                    "Cloud Automation", "Multi-Agent Systems"]
-    hackathons  = "4× Finalist & Winner 🏆"
+    hackathons  = "2× Finalist & Winner 🏆 · 28th/12,885 — HackerRank Orchestrate"
     achievements = [
+        "🌍 28th Globally – HackerRank Orchestrate May 2026 (Support Triage Agent)",
         "🥉 3rd Place – AgentHathonX (EV_Q Project)",
-        "🏆 Finalist – HackHazard Hackathon",
         "🎯 Finalist – Viveka Hackathon",
-        "🎯 Finalist – GDG Hackathon",
         "🔥 Finalist – Meta PyTorch OpenEnv Hackathon × Scaler (800 of 31K+ teams)"
     ]
     internships = 7
-    projects    = "30+"
+    projects    = "38+"
     passion     = ["Mental Health AI", "Disaster Tech",
                    "Green Skills", "Human-Centered AI"]
     currently   = "Exploring multi-agent orchestration & GenAI UI"
@@ -57,11 +56,10 @@ class PushkarKhattri:
 
 <div align="center">
 
-| 🥉 | **3rd Place — AgentHathonX** | EV_Q: Smart Electric Vehicle Multi-Agent AI System |
+| 🌍 | **28th Globally — HackerRank Orchestrate (May 2026)** | Multi-Domain Support Triage Agent — 24-hr agent-build hackathon; 1 of 1,349 finishers (of 12,885 registrants) who defended their architecture to an AI judge |
 |---|---|---|
-| 🏆 | **Finalist — HackHazard** | RESQ Disaster Management App |
+| 🥉 | **3rd Place — AgentHathonX** | EV_Q: Smart Electric Vehicle Multi-Agent AI System |
 | 🎯 | **Finalist — Viveka Hackathon** | AI-Powered Real-World Solution |
-| 🎯 | **Finalist — GDG Hackathon** | Innovation in AI Engineering |
 | 🔥 | **Finalist — Meta PyTorch OpenEnv Hackathon × Scaler** | Contract Review Env · 1 of 800 teams campus-selected from 31,000+ registrations |
 | ⭐ | **IBM Top 10% Performer** | AI & Cloud Certification |
 
@@ -164,6 +162,10 @@ class PushkarKhattri:
 | [**AgentForge – Meta-Agentic AI Platform**](https://github.com/RaGaS958/AgentForge-Meta-Agentic-AI-Platform.git) | AI that architects, codes, deploys & teaches users to build multi-agent systems; self-referential A2A architecture | Python 3.11+ · Google ADK · Gemini 2.5 Flash · LangGraph | ✅ Live |
 | [**HealthWise Agent – AI Symptom Triage**](https://github.com/RaGaS958/HealthWise_Agent.git) | IBM watsonx.ai hackathon build — safety-first ReAct + RAG triage agent with structured medical risk analysis | IBM watsonx.ai · LangGraph · ReAct · RAG | ✅ Built |
 | [**6 Production AI Automation Systems**](https://github.com/RaGaS958/n8n-ai-internship-6-systems.git) | HR RAG bots, NLP scheduling agents, Telegram physio assistant, lead pipelines — 6 real-world automation workflows | n8n · OpenAI GPT-4 · Gemini · Pinecone · Docker | ✅ Deployed |
+| [**Multi-Domain Support Triage Agent**](https://github.com/RaGaS958/Triage_agent) | 🌍 **28th Globally — HackerRank Orchestrate (May 2026)** — Safety-first, corpus-grounded triage agent across HackerRank, Claude & Visa; six-stage pipeline with adversarial pre-filtering + BM25 retrieval; 175/175 tests passing | Claude Haiku 4.5 · Python 3.12 · BM25 Deterministic RAG | 🌍 28th Global |
+| [**RippleGraph AI – Supply Chain Disruption Predictor**](https://github.com/RaGaS958/RippleGraphAI.git) | 3-agent Google ADK pipeline (Monitor → Analyst → Recommender) predicting cascade disruptions 45 days ahead across a 29-node supplier graph; GraphSAGE GNN + live 3D Earth visualization | PyTorch · GraphSAGE GNN · Google ADK · FastAPI · React · Three.js | ✅ Live |
+| [**ARIA – Autonomous Realtime Intelligence Agent**](https://aria-smart-server-management-system.vercel.app) | ReAct-loop ops agent monitoring a live 3-node server cluster across India; streams reasoning via SSE, detects mood states, simulates incidents with an Ornstein-Uhlenbeck process | Mistral AI · FastAPI · ReAct Loop · SSE | ✅ Live |
+| [**ARIA – Advanced Responsive Intelligence Assistant**](https://aria-smart-home-system.vercel.app/) | Full-stack AI smart-home system with a holographic pixel-art face, PBR 3D living room, live weather/news, voice control & a WebSocket-driven Mistral reasoning engine | React 18 · TypeScript · Three.js · Mistral AI · WebSocket | ✅ Live |
 
 ---
 
@@ -180,6 +182,9 @@ class PushkarKhattri:
 | [**TextEmo – Text & Emotion Intelligence**](https://github.com/RaGaS958/TextEmo.git) | Dual-model: LSTM Next-Word Predictor + Emotion Classifier, <100ms inference | TensorFlow · Keras · Scikit-learn · Streamlit · LSTM | **88%+** |
 | [**Smart Waste Management System**](https://github.com/RaGaS958/WasteManagement.git) | Real-time webcam waste classification (16+ categories) with gamified recycling | TensorFlow.js · MobileNetV2 · JavaScript | **94%** |
 | [**BioSignal LTI Analysis Pro**](https://github.com/RaGaS958/BIOMEDICAL-SIGNAL-PROCESSING-AND-LINEAR-TIME-INVARIANT-SYSTEM-VERIFICATION.git) | Real-time ECG-like signal generation, noise removal & LTI verification with FFT/SNR/MSE | Python · SciPy · Streamlit · NumPy · Plotly | ✅ Research |
+| [**ASL Vision – Real-Time Sign Language Dashboard**](https://github.com/RaGaS958/-ASL-Vision) | Four-page PyQt6 desktop app turning ASL hand gestures into speech: MediaPipe 21-point hand landmarks → 63 features → XGBoost letter classifier → word suggestions → non-blocking TTS, at 25–60 FPS | Python · MediaPipe · XGBoost · PyQt6 · OpenCV | **98% Train / 96–99% Val** |
+| [**AI Face Blur – Real-Time Anonymization**](https://github.com/RaGaS958/AI-Face-Blur-using-OpenCV-and-MediaPipe) | MediaPipe Face Mesh (468 landmarks) drives an edge-aware, feathered Gaussian blur mask that tracks facial contours in real time for privacy-preserving video | Python · OpenCV · MediaPipe · NumPy | ✅ Real-time |
+| [**Real-Time Plant Detection**](https://github.com/RaGaS958/Plant_detector) | HSV color segmentation + contour detection to identify and bounding-box green foliage from a live webcam feed | Python · OpenCV · NumPy | ✅ Real-time |
 
 ---
 
@@ -340,7 +345,7 @@ class PushkarKhattri:
 
 > *"I turn caffeine into scalable code & hackathons into launchpads 🚀."*
 >
-> **2+ Yrs Experience · 30+ Projects · 7 Internships · 98% ML Accuracy · 4× Hackathon Finalist · 🥉 AgentHathonX**
+> **2+ Yrs Experience · 38+ Projects · 7 Internships · 98% ML Accuracy · 2× Hackathon Finalist · 🌍 28th/12,885 HackerRank Orchestrate**
 
 </div>
 
