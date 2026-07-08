@@ -32,7 +32,7 @@ class PushkarKhattri:
     role        = "AI Engineer & Full-Stack Developer"
     location    = "Lucknow, Uttar Pradesh, India 🇮🇳"
     focus       = ["Agentic AI", "RAG Pipelines", "LLMs", 
-                   "Cloud Automation", "Multi-Agent Systems"]
+                   "Cloud Automation", "Multi-Agent Systems", "LLM Security"]
     hackathons  = "2× Finalist & Winner 🏆 · 28th/12,885 — HackerRank Orchestrate"
     achievements = [
         "🌍 28th Globally – HackerRank Orchestrate May 2026 (Support Triage Agent)",
@@ -92,6 +92,8 @@ class PushkarKhattri:
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM%20watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistral-ai&logoColor=white)
+<a href="https://groq.com"><img src="https://console.groq.com/powered-by-groq-light.svg" alt="Powered by Groq" height="28"/></a>
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -148,6 +150,16 @@ class PushkarKhattri:
 ## 🧩 Projects
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
+---
+
+### 🛡️ Category 0 — AI Security & Guardrails
+
+> *Systems that keep LLMs safe from the inside and the outside.*
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [**HEIMDALL – Dual-Gateway Prompt Injection Firewall**](https://github.com/RaGaS958/Heimdall.git) | 7-layer firewall (4 input + 3 output) screening prompts before an LLM sees them and responses before a user does, with an agentic decision point on each side; live layer-by-layer verdicts streamed over SSE, a 3-provider LLM panel (Gemini · Groq · Mistral) queried in parallel, Red Team Mode, Attack DNA breakdown, and a Three.js Threat Globe | Python · FastAPI · React · Vite · SSE · Groq · Gemini · Mistral AI · sentence-transformers · Three.js · Docker | ✅ Live |
 
 ---
 
