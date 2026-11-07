@@ -323,6 +323,15 @@ class PushkarKhattri:
 ![svg](profile-3d-contrib/profile-night-green.svg)
 
 
+<p align="center">
+  <img
+    src="koi/koi.gif"
+    width="256"
+    alt="My GitHub activity koi"
+  />
+</p>
+
+
 ---
 
 
