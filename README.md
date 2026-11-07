@@ -316,15 +316,12 @@ class PushkarKhattri:
 
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/tulkun/tulkun.gif" width="640" alt="YOUR_USERNAME's git-tulkun" />
+    <img src="https://raw.githubusercontent.com/RaGaS958/RaGaS958/output/tulkun/tulkun.gif" width="640" alt="YOUR_USERNAME's git-tulkun" />
   </a>
 </p>
 
 ![svg](profile-3d-contrib/profile-night-green.svg)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaGaS958&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="49%"/>
-</div>
 
 ---
 
