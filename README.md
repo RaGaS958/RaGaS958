@@ -328,6 +328,18 @@ class PushkarKhattri:
   />
 </p>
 
+
+<p align="center">
+  <img
+    src="output/bonsai.gif"
+    width="320"
+    alt="My GitHub Bonsai"
+  />
+  <img src="output/bonsai-growth.gif" width="384" />
+</p>
+
+
+
 ![svg](profile-3d-contrib/profile-night-green.svg)
 
 
