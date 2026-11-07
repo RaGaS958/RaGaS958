@@ -314,6 +314,12 @@ class PushkarKhattri:
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/tulkun/tulkun.gif" width="640" alt="YOUR_USERNAME's git-tulkun" />
+  </a>
+</p>
+
 ![svg](profile-3d-contrib/profile-night-green.svg)
 
 <div align="center">
